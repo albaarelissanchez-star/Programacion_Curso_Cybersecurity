@@ -3,7 +3,9 @@
 Ejercicios básicos realizados en **PSeInt** para practicar los conceptos fundamentales de la programación:  
 - Tipos de Datos  
 - Condicionales  
-- Bucles  
+- Bucles
+- Funciones
+- Vectores 
 
 ---
 

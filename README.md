@@ -7,7 +7,7 @@ Ejercicios básicos realizados en **PSeInt** para practicar los conceptos fundam
 - Funciones
 - Vectores
 
-# Gestor de Contraseñas Seguras
+# Proyecto Gestor de Contraseñas Seguras
 
 Programa en PSeInt que permite registrar usuarios y contraseñas, verificar su nivel de seguridad y mostrar alertas cuando alguna es débil.
 

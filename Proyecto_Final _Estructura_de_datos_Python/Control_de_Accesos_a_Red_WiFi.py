@@ -211,7 +211,7 @@ class ControlAccesos:
             return list(self.dispositivos.values())
 
 
-# ---------------------------- DEMO / EJEMPLO DE USO ----------------------------
+# ---------------------------- EJEMPLO DE USO ----------------------------
 def main():
     controller = ControlAccesos(max_conexiones_simultaneas=2)
 

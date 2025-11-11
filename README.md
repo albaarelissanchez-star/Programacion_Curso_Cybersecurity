@@ -1,11 +1,14 @@
-# Introducción a la Programación con PSeInt
+# Introducción a la Programación con PSeInt y Python
 
-Ejercicios básicos realizados en **PSeInt** para practicar los conceptos fundamentales de la programación:  
+Ejercicios básicos realizados en **PSeInt y Python** para practicar los conceptos fundamentales de la programación:  
 - Tipos de Datos  
 - Condicionales  
 - Bucles
 - Funciones
 - Vectores
+- Tuplas
+- Listas
+- Diccionarios
 
 # Proyecto Gestor de Contraseñas Seguras
 
